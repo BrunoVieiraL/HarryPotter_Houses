@@ -1,6 +1,6 @@
 # hp_houses
 
-A new Flutter project.
+Choose the words that match with you and discover in which house you will be alocated in Hogwarts.
 
 ## Getting Started
 
