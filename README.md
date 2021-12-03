@@ -1,6 +1,6 @@
 # hp_houses
 
-Choose the words that match with you and discover in which house you will be alocated in Hogwarts.  Developed in Polimorfismo lessons.
+Choose the words that match with you and discover in which house you will be alocated in Hogwarts. Project developed during the Dart and Flutter course by Polimorfismo.
 
 ## Getting Started
 
